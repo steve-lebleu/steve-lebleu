@@ -62,13 +62,13 @@
       <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
       <br>Sass
     </td>        
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
   </tr>
 
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=emotion" alt="icon" width="48" height="48" />
       <br>Emotion
@@ -96,7 +96,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="icon" width="48" height="48" />
       <br>Next.js
-    </td>
+    </td>    
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=angular" alt="icon" width="48" height="48" />
       <br>Angular
@@ -104,10 +107,7 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=svelte" alt="icon" width="48" height="48" />
       <br>Svelte
-    </td>      
-  </tr>
-
-  <tr>
+    </td>    
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" height="48" />
       <br>Redux
@@ -132,6 +132,9 @@
       <img src="https://skillicons.dev/icons?i=d3" alt="icon" width="48" height="48" />
       <br>D3
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=materialui" alt="icon" width="48" height="48" />
       <br>MUI
@@ -143,10 +146,7 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="48" height="48" />
       <br>Nest
-    </td>
-  </tr>
-
-  <tr>
+    </td>  
     <td align="center" width="96">
       <img src="https://cdn.brandfetch.io/id_PKfTSw5/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B" alt="icon" width="48" height="48" />
       <br>Typeorm
@@ -166,7 +166,10 @@
     <td align="center"  width="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
-    </td>
+    </td>   
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
@@ -182,10 +185,7 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="48" height="48" />
       <br>MySQL
-    </td>    
-  </tr>
-
-  <tr>
+    </td>   
     <td align="center" width="96"> 
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
@@ -201,7 +201,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="48" height="48" />
       <br>Docker
-    </td>
+    </td>  
+  </tr>
+
+  <tr>
     <td align="center"  width="96">
       <img src="./assets/biome.svg" alt="icon" width="48" height="48" />
       <br>Biome
@@ -222,9 +225,6 @@
       <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="48" height="48" />
       <br>AWS
     </td>    
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=vercel" alt="icon" width="48" height="48" />
       <br>Vercel
@@ -236,7 +236,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=grafana" alt="icon" width="48" height="48" />
       <br>Grafana
-    </td>   
+    </td> 
+  </tr> 
+
+  <tr>  
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sentry" alt="icon" width="48" height="48" />
       <br>Sentry
@@ -257,7 +260,7 @@
       <img src="./assets/claude.svg" alt="icon" width="48" height="48" />
       <br>Claude
     </td> 
-  </tr>  
+  </tr>
 </table>
 
 <br><br>
