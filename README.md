@@ -6,6 +6,14 @@
   <a href="https://medium.com/@steve.lebleu" target="_blank">
      <img align="left" alt="medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/steve-lebleu" target="_blank">
+     <img align="left" alt="medium" src="https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/steve_lebleu" target="_blank">
+     <img align="left" alt="medium" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>  
   <!--
   &nbsp;&nbsp;
   <a href="https://www.mixcloud.com/Mo_Ogly/" target="_blank">
@@ -26,7 +34,6 @@
 - :swimmer: :bicyclist: :runner: I'm preparing for full distance XTerra
 - :speech_balloon: You can ask me about Node.js and the HTML / CSS / JS holy trinity.
 
-##
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -171,6 +178,10 @@
 
   <tr>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="48" height="48" />
+      <br>Python
+    </td>  
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>  
@@ -198,13 +209,13 @@
       <img src="https://skillicons.dev/icons?i=githubactions" alt="icon" width="48" height="48" />
       <br>GActions
     </td>    
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="48" height="48" />
-      <br>Docker
-    </td>  
   </tr>
 
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" alt="icon" width="48" height="48" />
+      <br>Docker
+    </td>    
     <td align="center"  width="96">
       <img src="./assets/biome.svg" alt="icon" width="48" height="48" />
       <br>Biome
@@ -233,21 +244,17 @@
       <img src="./assets/railway.svg" alt="icon" width="48" height="48" />
       <br>Railway
     </td> 
+  </tr> 
+
+  <tr> 
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=grafana" alt="icon" width="48" height="48" />
       <br>Grafana
-    </td> 
-  </tr> 
-
-  <tr>  
+    </td>   
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=sentry" alt="icon" width="48" height="48" />
       <br>Sentry
-    </td>    
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="48" height="48" />
-      <br>Python
-    </td>         
+    </td>           
     <td align="center"  width="96">
       <img src="./assets/cursor.svg" alt="icon" width="48" height="48" />
       <br>Cursor
