@@ -34,6 +34,7 @@
 - :swimmer: :bicyclist: :runner: I'm preparing for full distance XTerra
 - :speech_balloon: You can ask me about Node.js and the HTML / CSS / JS holy trinity.
 
+<!--
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -273,3 +274,4 @@
 <br><br>
 
 </div>
+-->
